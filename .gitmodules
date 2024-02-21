@@ -1,0 +1,6 @@
+[submodule "Subproject assemblies/project1-assembly"]
+	path = Subproject assemblies/project1-assembly
+	url = https://github.com/fabienlef1/project1-assembly
+[submodule "Subproject assemblies/project2-assembly"]
+	path = Subproject assemblies/project2-assembly
+	url = https://github.com/fabienlef1/project2-assembly
